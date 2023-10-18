@@ -1,0 +1,11 @@
+[id*="my_widget"] .widget-title.ui-draggable-handle {
+  /* Đặt các thuộc tính CSS cho phần tử có ID chứa "my_widget" ở đây */
+  background-color: #63e6be !important; /* Ví dụ: Thiết lập màu nền thành đỏ */ /* Ví dụ: Thiết lập màu chữ thành trắng */
+}
+[id*="my_widget"] .widget-title.ui-draggable-handle h3 {
+  color: #002e64 !important;
+}
+
+a.row-title[aria-label="“MẪU VÉ TRÚNG THƯỞNG xổ số kiến thiết mới nhất” (Chỉnh sửa)"] {
+  color: red !important;
+}
